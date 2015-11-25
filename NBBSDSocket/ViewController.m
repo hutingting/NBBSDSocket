@@ -1,12 +1,13 @@
 //
 //  ViewController.m
-//  NBAlertView
+//  NBBSDSocket
 //
-//  Created by 胡廷廷 on 15/11/18.
+//  Created by hutingting on 15/11/25.
 //  Copyright © 2015年 hutingting. All rights reserved.
 //
 
 #import "ViewController.h"
+#import "NBBSDSocket.h"
 
 @interface ViewController ()
 
@@ -16,7 +17,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NBBSDSocket *socket =[NBBSDSocket SharedNBBSDSocket];
+   
 }
 
 - (void)didReceiveMemoryWarning {

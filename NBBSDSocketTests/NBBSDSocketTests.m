@@ -1,18 +1,18 @@
 //
-//  NBAlertViewTests.m
-//  NBAlertViewTests
+//  NBBSDSocketTests.m
+//  NBBSDSocketTests
 //
-//  Created by 胡廷廷 on 15/11/18.
+//  Created by 胡廷廷 on 15/11/25.
 //  Copyright © 2015年 hutingting. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface NBAlertViewTests : XCTestCase
+@interface NBBSDSocketTests : XCTestCase
 
 @end
 
-@implementation NBAlertViewTests
+@implementation NBBSDSocketTests
 
 - (void)setUp {
     [super setUp];

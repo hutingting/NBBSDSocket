@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "580594BC1BFC656400A7A6B9"
-               BuildableName = "NBAlertView.app"
-               BlueprintName = "NBAlertView"
-               ReferencedContainer = "container:NBAlertView.xcodeproj">
+               BlueprintIdentifier = "5854B3531C05858700E2516A"
+               BuildableName = "NBBSDSocket.app"
+               BlueprintName = "NBBSDSocket"
+               ReferencedContainer = "container:NBBSDSocket.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "580594D51BFC656500A7A6B9"
-               BuildableName = "NBAlertViewTests.xctest"
-               BlueprintName = "NBAlertViewTests"
-               ReferencedContainer = "container:NBAlertView.xcodeproj">
+               BlueprintIdentifier = "5854B36C1C05858700E2516A"
+               BuildableName = "NBBSDSocketTests.xctest"
+               BlueprintName = "NBBSDSocketTests"
+               ReferencedContainer = "container:NBBSDSocket.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "580594E01BFC656500A7A6B9"
-               BuildableName = "NBAlertViewUITests.xctest"
-               BlueprintName = "NBAlertViewUITests"
-               ReferencedContainer = "container:NBAlertView.xcodeproj">
+               BlueprintIdentifier = "5854B3771C05858700E2516A"
+               BuildableName = "NBBSDSocketUITests.xctest"
+               BlueprintName = "NBBSDSocketUITests"
+               ReferencedContainer = "container:NBBSDSocket.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "580594BC1BFC656400A7A6B9"
-            BuildableName = "NBAlertView.app"
-            BlueprintName = "NBAlertView"
-            ReferencedContainer = "container:NBAlertView.xcodeproj">
+            BlueprintIdentifier = "5854B3531C05858700E2516A"
+            BuildableName = "NBBSDSocket.app"
+            BlueprintName = "NBBSDSocket"
+            ReferencedContainer = "container:NBBSDSocket.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "580594BC1BFC656400A7A6B9"
-            BuildableName = "NBAlertView.app"
-            BlueprintName = "NBAlertView"
-            ReferencedContainer = "container:NBAlertView.xcodeproj">
+            BlueprintIdentifier = "5854B3531C05858700E2516A"
+            BuildableName = "NBBSDSocket.app"
+            BlueprintName = "NBBSDSocket"
+            ReferencedContainer = "container:NBBSDSocket.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "580594BC1BFC656400A7A6B9"
-            BuildableName = "NBAlertView.app"
-            BlueprintName = "NBAlertView"
-            ReferencedContainer = "container:NBAlertView.xcodeproj">
+            BlueprintIdentifier = "5854B3531C05858700E2516A"
+            BuildableName = "NBBSDSocket.app"
+            BlueprintName = "NBBSDSocket"
+            ReferencedContainer = "container:NBBSDSocket.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

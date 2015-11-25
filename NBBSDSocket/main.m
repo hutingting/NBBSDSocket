@@ -1,8 +1,8 @@
 //
 //  main.m
-//  NBAlertView
+//  NBBSDSocket
 //
-//  Created by 胡廷廷 on 15/11/18.
+//  Created by hutingting on 15/11/25.
 //  Copyright © 2015年 hutingting. All rights reserved.
 //
 

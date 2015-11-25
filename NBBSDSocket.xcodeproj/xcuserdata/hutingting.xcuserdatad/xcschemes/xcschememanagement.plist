@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>NBAlertView.xcscheme</key>
+		<key>NBBSDSocket.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>580594BC1BFC656400A7A6B9</key>
+		<key>5854B3531C05858700E2516A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>580594D51BFC656500A7A6B9</key>
+		<key>5854B36C1C05858700E2516A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>580594E01BFC656500A7A6B9</key>
+		<key>5854B3771C05858700E2516A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
