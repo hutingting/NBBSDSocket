@@ -1,3 +1,7 @@
+导入方法
+pod 'NBBSDSocket', '~> 0.1.0'
+
+使用方法
 /**
  *  初始化url 与 port
  *
