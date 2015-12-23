@@ -18,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NBBSDSocket *socket =[NBBSDSocket SharedNBBSDSocket];
-   
+
 }
 
 - (void)didReceiveMemoryWarning {
